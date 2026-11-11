@@ -7,6 +7,7 @@ IT-Grundlagen für Clients und Hardware. Alles auf Deutsch. Jeder Kurs liegt in 
 | Ordner | Art | Inhalt |
 |---|---|---|
 | [comptia-tech-itf](comptia-tech-itf/) | Lernskript | CompTIA Tech+ / ITF+ (FC0-U71), 12 Module |
+| [windows-11-client-administration](windows-11-client-administration/) | Übungsreihe | Windows 11 im Hyper-V-Labor mit Domäne, 12 Module (Entwurf, nicht auf Windows ausgeführt) |
 
 ## Lizenz
 
